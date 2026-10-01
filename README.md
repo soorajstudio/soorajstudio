@@ -60,41 +60,6 @@ applications.
 
 ---
 
-## 🤖 AI & Research
-
-I also explore:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- YOLO
-- PyTorch
-- Image Steganography & Steganalysis
-
----
-
-## 📌 Featured Projects
-
-### 🚗 School Zone Alert System
-Location-based system designed to help identify and monitor school zones.
-
-### 🤖 Traffic Detection with YOLO
-Computer vision project focused on detecting vehicles and traffic objects.
-
-### 🎯 Full-Stack Quiz Game
-Interactive quiz application built with frontend and backend technologies.
-
-### ⌨️ Speed Typing Test
-Web application for measuring typing speed and accuracy.
-
-### 📱 Instagram Clone
-Social media application developed as a learning and full-stack project.
-
-### 🏘️ WardHub
-Community-focused web application with multiple civic and management features.
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced React Development
@@ -108,8 +73,7 @@ Community-focused web application with multiple civic and management features.
 
 ## 🤝 Let's Connect
 
-I'm interested in software development, open-source projects,
-collaboration and building useful applications.
+I'm interested in software development, open-source projects, collaboration and building useful applications.
 
 📍 Kerala, India
 
